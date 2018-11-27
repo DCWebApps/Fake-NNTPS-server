@@ -1,0 +1,317 @@
+2018-11-27 19:09:32,031 fakeNNTPSserver started
+2018-11-27 19:09:32,044 FakeNewsserver listening on 563
+2018-11-27 19:12:21,517 fakeNNTPSserver started
+2018-11-27 19:12:21,518 FakeNewsserver listening on 563
+2018-11-27 19:12:47,868 Incoming connection from ('62.45.54.21', 35966)
+2018-11-27 19:12:48,090 TLS version: TLSv1.2
+2018-11-27 19:12:48,236 client said: authinfo user fgf
+
+2018-11-27 19:12:48,237 in thread <Thread(Thread-1, started 1987060832)>
+2018-11-27 19:12:48,343 client said: authinfo pass fff
+
+2018-11-27 19:12:48,344 in thread <Thread(Thread-1, started 1987060832)>
+2018-11-27 19:12:50,052 Incoming connection from ('62.45.54.21', 35967)
+2018-11-27 19:12:50,237 TLS version: TLSv1.2
+2018-11-27 19:12:50,380 client said: authinfo user fgf
+
+2018-11-27 19:12:50,382 in thread <Thread(Thread-2, started 1977611360)>
+2018-11-27 19:12:50,487 client said: authinfo pass fff
+
+2018-11-27 19:12:50,488 in thread <Thread(Thread-2, started 1977611360)>
+2018-11-27 19:12:53,756 Incoming connection from ('62.45.54.21', 35968)
+2018-11-27 19:12:53,941 TLS version: TLSv1.2
+2018-11-27 19:12:54,085 client said: authinfo user adsf
+
+2018-11-27 19:12:54,086 in thread <Thread(Thread-3, started 1987060832)>
+2018-11-27 19:12:54,191 client said: authinfo pass asdf
+
+2018-11-27 19:12:54,193 in thread <Thread(Thread-3, started 1987060832)>
+2018-11-27 19:12:54,553 Incoming connection from ('62.45.54.21', 35969)
+2018-11-27 19:12:54,742 TLS version: TLSv1.2
+2018-11-27 19:12:54,888 client said: authinfo user adsf
+
+2018-11-27 19:12:54,890 in thread <Thread(Thread-4, started 1967125600)>
+2018-11-27 19:12:54,995 client said: authinfo pass asdf
+
+2018-11-27 19:12:54,996 in thread <Thread(Thread-4, started 1967125600)>
+2018-11-27 19:12:55,239 Incoming connection from ('62.45.54.21', 35970)
+2018-11-27 19:12:55,423 TLS version: TLSv1.2
+2018-11-27 19:12:55,569 client said: authinfo user adsf
+
+2018-11-27 19:12:55,570 in thread <Thread(Thread-5, started 1958732896)>
+2018-11-27 19:12:55,675 client said: authinfo pass asdf
+
+2018-11-27 19:12:55,676 in thread <Thread(Thread-5, started 1958732896)>
+2018-11-27 19:14:41,316 fakeNNTPSserver started
+2018-11-27 19:14:41,317 FakeNewsserver listening on 563
+2018-11-27 19:14:50,239 Incoming connection from ('62.45.54.21', 35972)
+2018-11-27 19:14:50,432 TLS version: TLSv1.2
+2018-11-27 19:14:50,577 client said: authinfo user adsf
+2018-11-27 19:14:50,579 in thread <Thread(Thread-1, started 1987961952)>
+2018-11-27 19:14:50,685 client said: authinfo pass asdf
+2018-11-27 19:14:50,686 in thread <Thread(Thread-1, started 1987961952)>
+2018-11-27 19:14:51,751 Incoming connection from ('62.45.54.21', 35973)
+2018-11-27 19:14:51,937 TLS version: TLSv1.2
+2018-11-27 19:14:52,081 client said: authinfo user adsf
+2018-11-27 19:14:52,082 in thread <Thread(Thread-2, started 1977611360)>
+2018-11-27 19:14:52,187 client said: authinfo pass asdf
+2018-11-27 19:14:52,188 in thread <Thread(Thread-2, started 1977611360)>
+2018-11-27 19:17:58,391 fakeNNTPSserver started
+2018-11-27 19:17:58,392 FakeNewsserver listening on 563
+2018-11-27 19:18:07,046 Incoming connection from ('62.45.54.21', 35975)
+2018-11-27 19:18:07,243 TLS version: TLSv1.2
+2018-11-27 19:18:07,387 client said: authinfo user adsf
+2018-11-27 20:21:21,521 fakeNNTPSserver started
+2018-11-27 20:21:21,536 FakeNewsserver listening on 563
+2018-11-27 20:21:25,881 Incoming connection from ('62.45.54.21', 35977)
+2018-11-27 20:21:26,087 TLS version: TLSv1.2
+2018-11-27 20:21:26,233 client said: authinfo user adsf
+2018-11-27 20:23:06,475 fakeNNTPSserver started
+2018-11-27 20:23:06,476 FakeNewsserver listening on 563
+2018-11-27 20:23:15,117 Incoming connection from ('62.45.54.21', 35979)
+2018-11-27 20:23:15,313 TLS version: TLSv1.2
+2018-11-27 20:23:15,458 client said: authinfo user adsf
+2018-11-27 20:23:15,460 in thread <Thread(Thread-1, started 1987970144)>
+2018-11-27 20:23:15,566 client said: authinfo pass asdf
+2018-11-27 20:23:15,567 in thread <Thread(Thread-1, started 1987970144)>
+2018-11-27 20:23:18,985 Incoming connection from ('62.45.54.21', 35980)
+2018-11-27 20:23:19,177 TLS version: TLSv1.2
+2018-11-27 20:23:19,322 client said: authinfo user adsf
+2018-11-27 20:23:19,323 in thread <Thread(Thread-2, started 1977611360)>
+2018-11-27 20:23:19,429 client said: authinfo pass asdf
+2018-11-27 20:23:19,430 in thread <Thread(Thread-2, started 1977611360)>
+2018-11-27 20:26:08,913 fakeNNTPSserver started
+2018-11-27 20:26:08,914 FakeNewsserver listening on 563
+2018-11-27 20:26:13,811 Incoming connection from ('62.45.54.21', 35982)
+2018-11-27 20:26:14,005 TLS version: TLSv1.2
+2018-11-27 20:26:14,152 client said: authinfo user adsf
+2018-11-27 20:26:35,048 fakeNNTPSserver started
+2018-11-27 20:26:35,049 FakeNewsserver listening on 563
+2018-11-27 20:26:38,619 Incoming connection from ('62.45.54.21', 35984)
+2018-11-27 20:26:38,807 TLS version: TLSv1.2
+2018-11-27 20:26:38,952 client said: authinfo user adsf
+2018-11-27 20:26:38,954 in thread <Thread(Thread-1, started 1987179616)>
+2018-11-27 20:26:39,059 client said: authinfo pass asdf
+2018-11-27 20:26:39,061 in thread <Thread(Thread-1, started 1987179616)>
+2018-11-27 20:31:04,346 fakeNNTPSserver started
+2018-11-27 20:31:04,347 FakeNewsserver listening on 563
+2018-11-27 20:31:08,758 Incoming connection from ('62.45.54.21', 35990)
+2018-11-27 20:31:08,954 TLS version: TLSv1.2
+2018-11-27 20:31:09,098 client said: authinfo user adsf
+2018-11-27 20:31:09,101 in thread <Thread(Thread-1, started 1987445856)>
+2018-11-27 20:31:09,207 client said: authinfo pass asdf
+2018-11-27 20:31:09,209 in thread <Thread(Thread-1, started 1987445856)>
+2018-11-27 20:31:16,848 Incoming connection from ('62.45.54.21', 35992)
+2018-11-27 20:31:17,039 TLS version: TLSv1.2
+2018-11-27 20:31:17,182 client said: authinfo user adsf
+2018-11-27 20:31:17,185 in thread <Thread(Thread-2, started 1987445856)>
+2018-11-27 20:31:17,290 client said: authinfo pass asdf
+2018-11-27 20:31:17,292 in thread <Thread(Thread-2, started 1987445856)>
+2018-11-27 20:31:18,111 Incoming connection from ('62.45.54.21', 35993)
+2018-11-27 20:31:18,295 TLS version: TLSv1.2
+2018-11-27 20:31:18,442 client said: authinfo user adsf
+2018-11-27 20:31:18,445 in thread <Thread(Thread-3, started 1977611360)>
+2018-11-27 20:31:18,550 client said: authinfo pass asdf
+2018-11-27 20:31:18,552 in thread <Thread(Thread-3, started 1977611360)>
+2018-11-27 20:31:19,331 Incoming connection from ('62.45.54.21', 35994)
+2018-11-27 20:31:19,519 TLS version: TLSv1.2
+2018-11-27 20:31:19,666 client said: authinfo user adsf
+2018-11-27 20:31:19,668 in thread <Thread(Thread-4, started 1967125600)>
+2018-11-27 20:31:19,774 client said: authinfo pass asdf
+2018-11-27 20:31:19,776 in thread <Thread(Thread-4, started 1967125600)>
+2018-11-27 20:31:23,164 Incoming connection from ('62.45.54.21', 35995)
+2018-11-27 20:31:23,349 TLS version: TLSv1.2
+2018-11-27 20:31:23,494 client said: authinfo user adsf
+2018-11-27 20:31:23,497 in thread <Thread(Thread-5, started 1987445856)>
+2018-11-27 20:31:23,602 client said: authinfo pass asdf
+2018-11-27 20:31:23,605 in thread <Thread(Thread-5, started 1987445856)>
+2018-11-27 20:31:23,787 Incoming connection from ('62.45.54.21', 35996)
+2018-11-27 20:31:23,972 TLS version: TLSv1.2
+2018-11-27 20:31:24,118 client said: authinfo user adsf
+2018-11-27 20:31:24,120 in thread <Thread(Thread-6, started 1977611360)>
+2018-11-27 20:31:24,226 client said: authinfo pass asdf
+2018-11-27 20:31:24,228 in thread <Thread(Thread-6, started 1977611360)>
+2018-11-27 20:31:24,441 Incoming connection from ('62.45.54.21', 35997)
+2018-11-27 20:31:24,621 TLS version: TLSv1.2
+2018-11-27 20:31:24,766 client said: authinfo user adsf
+2018-11-27 20:31:24,769 in thread <Thread(Thread-7, started 1958732896)>
+2018-11-27 20:31:24,874 client said: authinfo pass asdf
+2018-11-27 20:31:24,877 in thread <Thread(Thread-7, started 1958732896)>
+2018-11-27 20:31:25,116 Incoming connection from ('62.45.54.21', 35998)
+2018-11-27 20:31:25,304 TLS version: TLSv1.2
+2018-11-27 20:31:25,451 client said: authinfo user adsf
+2018-11-27 20:31:25,453 in thread <Thread(Thread-8, started 1967125600)>
+2018-11-27 20:31:25,559 client said: authinfo pass asdf
+2018-11-27 20:31:25,562 in thread <Thread(Thread-8, started 1967125600)>
+2018-11-27 20:31:25,790 Incoming connection from ('62.45.54.21', 35999)
+2018-11-27 20:31:25,975 TLS version: TLSv1.2
+2018-11-27 20:31:26,118 client said: authinfo user adsf
+2018-11-27 20:31:26,121 in thread <Thread(Thread-9, started 1950340192)>
+2018-11-27 20:31:26,226 client said: authinfo pass asdf
+2018-11-27 20:31:26,229 in thread <Thread(Thread-9, started 1950340192)>
+2018-11-27 20:31:26,633 Incoming connection from ('62.45.54.21', 36000)
+2018-11-27 20:31:26,824 TLS version: TLSv1.2
+2018-11-27 20:31:26,970 client said: authinfo user adsf
+2018-11-27 20:31:26,971 in thread <Thread(Thread-10, started 1941947488)>
+2018-11-27 20:31:27,075 client said: authinfo pass asdf
+2018-11-27 20:31:27,077 in thread <Thread(Thread-10, started 1941947488)>
+2018-11-27 20:31:27,335 Incoming connection from ('62.45.54.21', 36001)
+2018-11-27 20:31:27,524 TLS version: TLSv1.2
+2018-11-27 20:31:27,670 client said: authinfo user adsf
+2018-11-27 20:31:27,672 in thread <Thread(Thread-11, started 1933554784)>
+2018-11-27 20:31:27,778 client said: authinfo pass asdf
+2018-11-27 20:31:27,780 in thread <Thread(Thread-11, started 1933554784)>
+2018-11-27 20:31:27,994 Incoming connection from ('62.45.54.21', 36002)
+2018-11-27 20:31:28,181 TLS version: TLSv1.2
+2018-11-27 20:31:28,326 client said: authinfo user adsf
+2018-11-27 20:31:28,329 in thread <Thread(Thread-12, started 1925162080)>
+2018-11-27 20:31:28,434 client said: authinfo pass asdf
+2018-11-27 20:31:28,437 in thread <Thread(Thread-12, started 1925162080)>
+2018-11-27 20:31:28,660 Incoming connection from ('62.45.54.21', 36003)
+2018-11-27 20:31:28,845 TLS version: TLSv1.2
+2018-11-27 20:31:28,990 client said: authinfo user adsf
+2018-11-27 20:31:28,992 in thread <Thread(Thread-13, started 1987445856)>
+2018-11-27 20:31:29,098 client said: authinfo pass asdf
+2018-11-27 20:31:29,100 in thread <Thread(Thread-13, started 1987445856)>
+2018-11-27 20:31:29,322 Incoming connection from ('62.45.54.21', 36004)
+2018-11-27 20:31:29,507 TLS version: TLSv1.2
+2018-11-27 20:31:29,655 client said: authinfo user adsf
+2018-11-27 20:31:29,657 in thread <Thread(Thread-14, started 1977611360)>
+2018-11-27 20:31:29,762 client said: authinfo pass asdf
+2018-11-27 20:31:29,765 in thread <Thread(Thread-14, started 1977611360)>
+2018-11-27 20:32:36,920 fakeNNTPSserver started
+2018-11-27 20:32:36,921 FakeNewsserver listening on 563
+2018-11-27 20:32:39,908 Incoming connection from ('62.45.54.21', 36006)
+2018-11-27 20:32:40,103 TLS version: TLSv1.2
+2018-11-27 20:32:40,247 client said: authinfo user adsf
+2018-11-27 20:32:40,249 in thread <Thread(Thread-1, started 1987675232)>
+2018-11-27 20:32:40,355 client said: authinfo pass asdf
+2018-11-27 20:32:40,356 in thread <Thread(Thread-1, started 1987675232)>
+2018-11-27 20:32:41,172 Incoming connection from ('62.45.54.21', 36007)
+2018-11-27 20:32:41,356 TLS version: TLSv1.2
+2018-11-27 20:32:41,503 client said: authinfo user adsf
+2018-11-27 20:32:41,504 in thread <Thread(Thread-2, started 1977611360)>
+2018-11-27 20:32:41,610 client said: authinfo pass asdf
+2018-11-27 20:32:41,611 in thread <Thread(Thread-2, started 1977611360)>
+2018-11-27 20:32:42,001 Incoming connection from ('62.45.54.21', 36008)
+2018-11-27 20:32:42,189 TLS version: TLSv1.2
+2018-11-27 20:32:42,335 client said: authinfo user adsf
+2018-11-27 20:32:42,336 in thread <Thread(Thread-3, started 1967125600)>
+2018-11-27 20:32:42,442 client said: authinfo pass asdf
+2018-11-27 20:32:42,443 in thread <Thread(Thread-3, started 1967125600)>
+2018-11-27 20:32:42,826 Incoming connection from ('62.45.54.21', 36009)
+2018-11-27 20:32:43,008 TLS version: TLSv1.2
+2018-11-27 20:32:43,155 client said: authinfo user adsf
+2018-11-27 20:32:43,156 in thread <Thread(Thread-4, started 1958732896)>
+2018-11-27 20:32:43,262 client said: authinfo pass asdf
+2018-11-27 20:32:43,263 in thread <Thread(Thread-4, started 1958732896)>
+2018-11-27 20:33:05,786 fakeNNTPSserver started
+2018-11-27 20:33:05,787 FakeNewsserver listening on 563
+2018-11-27 20:33:08,377 Incoming connection from ('62.45.54.21', 36011)
+2018-11-27 20:33:08,572 TLS version: TLSv1.2
+2018-11-27 20:33:08,715 client said: authinfo user adsf
+2018-11-27 20:33:08,716 in thread <Thread(Thread-1, started 1987400800)>
+2018-11-27 20:33:08,821 client said: authinfo pass asdf
+2018-11-27 20:33:08,822 in thread <Thread(Thread-1, started 1987400800)>
+2018-11-27 20:33:09,607 Incoming connection from ('62.45.54.21', 36012)
+2018-11-27 20:33:09,796 TLS version: TLSv1.2
+2018-11-27 20:33:09,939 client said: authinfo user adsf
+2018-11-27 20:33:09,940 in thread <Thread(Thread-2, started 1977611360)>
+2018-11-27 20:33:10,045 client said: authinfo pass asdf
+2018-11-27 20:33:10,047 in thread <Thread(Thread-2, started 1977611360)>
+2018-11-27 20:35:33,742 fakeNNTPSserver started
+2018-11-27 20:35:33,743 FakeNewsserver listening on 563
+2018-11-27 20:35:36,885 Incoming connection from ('62.45.54.21', 36014)
+2018-11-27 20:35:37,082 TLS version: TLSv1.2
+2018-11-27 20:35:37,229 Thread-1 client said: authinfo user adsf
+2018-11-27 20:35:37,334 Thread-1 client said: authinfo pass asdf
+2018-11-27 20:35:38,272 Incoming connection from ('62.45.54.21', 36015)
+2018-11-27 20:35:38,458 TLS version: TLSv1.2
+2018-11-27 20:35:38,604 Thread-2 client said: authinfo user adsf
+2018-11-27 20:35:38,710 Thread-2 client said: authinfo pass asdf
+2018-11-27 20:36:51,925 fakeNNTPSserver started
+2018-11-27 20:36:51,926 FakeNewsserver listening on 563
+2018-11-27 20:36:54,663 MainThread Incoming connection from ('62.45.54.21', 36017)
+2018-11-27 20:36:54,862 MainThread TLS version: TLSv1.2
+2018-11-27 20:36:55,005 Thread-1 client said: authinfo user adsf
+2018-11-27 20:36:55,110 Thread-1 client said: authinfo pass asdf
+2018-11-27 20:36:56,097 MainThread Incoming connection from ('62.45.54.21', 36018)
+2018-11-27 20:36:56,282 MainThread TLS version: TLSv1.2
+2018-11-27 20:36:56,429 Thread-2 client said: authinfo user adsf
+2018-11-27 20:36:56,535 Thread-2 client said: authinfo pass asdf
+2018-11-27 20:36:57,333 MainThread Incoming connection from ('62.45.54.21', 36019)
+2018-11-27 20:36:57,523 MainThread TLS version: TLSv1.2
+2018-11-27 20:36:57,669 Thread-3 client said: authinfo user adsf
+2018-11-27 20:36:57,774 Thread-3 client said: authinfo pass asdf
+2018-11-27 20:36:58,367 MainThread Incoming connection from ('62.45.54.21', 36020)
+2018-11-27 20:36:58,552 MainThread TLS version: TLSv1.2
+2018-11-27 20:36:58,697 Thread-4 client said: authinfo user adsf
+2018-11-27 20:36:58,803 Thread-4 client said: authinfo pass asdf
+2018-11-27 20:36:59,012 MainThread Incoming connection from ('62.45.54.21', 36021)
+2018-11-27 20:36:59,201 MainThread TLS version: TLSv1.2
+2018-11-27 20:36:59,345 Thread-5 client said: authinfo user adsf
+2018-11-27 20:36:59,451 Thread-5 client said: authinfo pass asdf
+2018-11-27 20:39:48,421 fakeNNTPSserver started
+2018-11-27 20:39:48,422 FakeNewsserver listening on 563
+2018-11-27 20:39:51,526 MainThread Incoming connection from ('62.45.54.21', 36023)
+2018-11-27 20:39:51,725 Connection from ('62.45.54.21', 36023) has TLS version TLSv1.2
+2018-11-27 20:39:51,870 Thread-1 client said: authinfo user adsf
+2018-11-27 20:39:51,976 Thread-1 client said: authinfo pass asdf
+2018-11-27 20:39:53,028 MainThread Incoming connection from ('62.45.54.21', 36024)
+2018-11-27 20:39:53,217 Connection from ('62.45.54.21', 36024) has TLS version TLSv1.2
+2018-11-27 20:39:53,363 Thread-2 client said: authinfo user adsf
+2018-11-27 20:39:53,469 Thread-2 client said: authinfo pass asdf
+2018-11-27 20:40:45,190 fakeNNTPSserver started
+2018-11-27 20:40:45,191 FakeNewsserver listening on 563
+2018-11-27 20:40:48,419 MainThread Incoming connection from ('62.45.54.21', 36026)
+2018-11-27 20:40:48,619 Connection from ('62.45.54.21', 36026) has TLS version TLSv1.2
+2018-11-27 20:40:48,763 Thread-1 client said: authinfo user adsf
+2018-11-27 20:40:48,869 Thread-1 client said: authinfo pass asdf
+2018-11-27 20:40:49,530 MainThread Incoming connection from ('62.45.54.21', 36027)
+2018-11-27 20:40:49,717 Connection from ('62.45.54.21', 36027) has TLS version TLSv1.2
+2018-11-27 20:40:49,863 Thread-2 client said: authinfo user adsf
+2018-11-27 20:40:49,969 Thread-2 client said: authinfo pass asdf
+2018-11-27 20:40:50,804 MainThread Incoming connection from ('62.45.54.21', 36028)
+2018-11-27 20:40:50,996 Connection from ('62.45.54.21', 36028) has TLS version TLSv1.2
+2018-11-27 20:40:51,139 Thread-3 client said: authinfo user adsf
+2018-11-27 20:40:51,245 Thread-3 client said: authinfo pass asdf
+2018-11-27 20:40:51,560 MainThread Incoming connection from ('62.45.54.21', 36029)
+2018-11-27 20:40:51,757 Connection from ('62.45.54.21', 36029) has TLS version TLSv1.2
+2018-11-27 20:40:51,903 Thread-4 client said: authinfo user adsf
+2018-11-27 20:40:52,008 Thread-4 client said: authinfo pass asdf
+2018-11-27 20:40:52,430 MainThread Incoming connection from ('62.45.54.21', 36030)
+2018-11-27 20:40:52,616 Connection from ('62.45.54.21', 36030) has TLS version TLSv1.2
+2018-11-27 20:40:52,763 Thread-5 client said: authinfo user adsf
+2018-11-27 20:40:52,869 Thread-5 client said: authinfo pass asdf
+2018-11-27 20:41:19,807 fakeNNTPSserver started
+2018-11-27 20:41:19,808 FakeNewsserver listening on 563
+2018-11-27 20:41:22,557 MainThread Incoming connection from ('62.45.54.21', 36032)
+2018-11-27 20:41:22,759 Connection from ('62.45.54.21', 36032) has TLS version TLSv1.2
+2018-11-27 20:41:23,689 MainThread Incoming connection from ('62.45.54.21', 36033)
+2018-11-27 20:41:23,878 Connection from ('62.45.54.21', 36033) has TLS version TLSv1.2
+2018-11-27 20:41:25,273 MainThread Incoming connection from ('62.45.54.21', 36034)
+2018-11-27 20:41:25,458 Connection from ('62.45.54.21', 36034) has TLS version TLSv1.2
+2018-11-27 20:47:03,956 fakeNNTPSserver started
+2018-11-27 20:47:03,957 FakeNewsserver listening on 563
+2018-11-27 20:47:09,052 MainThread Incoming connection from ('62.45.54.21', 36039)
+2018-11-27 20:47:09,245 Connection from ('62.45.54.21', 36039) has TLS version TLSv1.2
+2018-11-27 20:47:10,964 MainThread Incoming connection from ('62.45.54.21', 36040)
+2018-11-27 20:47:11,157 Connection from ('62.45.54.21', 36040) has TLS version TLSv1.2
+2018-11-27 21:04:05,865 fakeNNTPSserver started 1996406800 MainThread
+2018-11-27 21:04:05,866 FakeNewsserver listening on 563 1996406800 MainThread
+2018-11-27 21:04:10,823 MainThread Incoming connection from ('62.45.54.21', 36048) 1996406800 MainThread
+2018-11-27 21:04:11,017 Connection from ('62.45.54.21', 36048) has TLS version TLSv1.2 1996406800 MainThread
+2018-11-27 21:04:12,395 MainThread Incoming connection from ('62.45.54.21', 36049) 1996406800 MainThread
+2018-11-27 21:04:12,585 Connection from ('62.45.54.21', 36049) has TLS version TLSv1.2 1996406800 MainThread
+2018-11-27 21:06:21,250 fakeNNTPSserver started
+2018-11-27 21:06:21,251 FakeNewsserver listening on 563
+2018-11-27 21:06:25,406 MainThread Incoming connection from ('62.45.54.21', 36051)
+2018-11-27 21:06:25,600 Connection from ('62.45.54.21', 36051) has TLS version TLSv1.2
+2018-11-27 21:06:26,984 MainThread Incoming connection from ('62.45.54.21', 36052)
+2018-11-27 21:06:27,169 Connection from ('62.45.54.21', 36052) has TLS version TLSv1.2
+2018-11-27 21:07:20,540 fakeNNTPSserver started
+2018-11-27 21:07:20,541 FakeNewsserver listening on 563
+2018-11-27 21:07:23,571 Incoming connection from ('62.45.54.21', 36054)
+2018-11-27 21:07:23,770 Connection from ('62.45.54.21', 36054) has TLS version TLSv1.2
+2018-11-27 21:07:24,960 Incoming connection from ('62.45.54.21', 36055)
+2018-11-27 21:07:25,146 Connection from ('62.45.54.21', 36055) has TLS version TLSv1.2
